@@ -1,7 +1,3 @@
--- objective manage and store the hospital database, required information-sql queries use retrive 
--- dept,doctor,patient,appointment,prescription,billing
--- manual unsturctured so virtual ah relational db use sturctured database create 
-
 CREATE DATABASE HealthcareDB;
 USE HealthcareDB;
 CREATE TABLE Department(
